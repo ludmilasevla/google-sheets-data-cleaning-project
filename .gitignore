@@ -1,0 +1,15 @@
+# Arquivos temporários do Excel
+~$*.xlsx
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cache do VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+
+# Logs
+*.log
